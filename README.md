@@ -7,4 +7,4 @@ existem 3 tipos de membros (GOLD/SILVER/BRONZE)
 
 eu coloquei um valor pra cada item de 30 reais (valor simbólico, mas numa loja, logicamente cada item teria seu próprio valor em um banco de dados alterado por SQL)
 
-e por último, quanto mais o cliente comprava, mais desconto ele ganhava, acumulando 2% por 20 itens
+e por último, quanto mais o cliente comprava, mais desconto ele ganhava, acumulando 2% por 20 itens, tudo rodado também em .NET
